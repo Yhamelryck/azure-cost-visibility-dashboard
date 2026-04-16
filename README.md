@@ -10,7 +10,6 @@ Small organizations often struggle to understand where Azure costs come from. Th
 - Budget or cost threshold alerts
 - Email notifications through an automated workflow
 - A dashboard for easier cost analysis
-- A weekly comparison report showing cost changes over time
 
 ## Azure services used
 - Azure Cost Management
@@ -25,7 +24,6 @@ Small organizations often struggle to understand where Azure costs come from. Th
 3. Create alerts for selected spending thresholds
 4. Trigger a Logic App to send notifications
 5. Visualize spending in a dashboard
-6. Compare current and previous cost data in a weekly report
 
 ## Why this project matters
 This project focuses on a real business problem: unexpected cloud costs. It demonstrates not only Azure knowledge, but also operational thinking, cost awareness, automation, and the ability to communicate technical data in a way that supports decision-making.
