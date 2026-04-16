@@ -32,3 +32,7 @@ This project focuses on a real business problem: unexpected cloud costs. It demo
 
 ## Status
 Ongoing
+
+## Changelog
+Version 1 - initial setup
+Version 1.1 - added possible improvements
