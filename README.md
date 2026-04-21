@@ -29,7 +29,7 @@ Small organizations often struggle to understand where Azure costs come from. Th
 This project focuses on a real business problem: unexpected cloud costs. It demonstrates not only Azure knowledge, but also operational thinking, cost awareness, automation, and the ability to communicate technical data in a way that supports decision-making.
 
 ## Status
-Ongoing
+Finished - please see docs/AzureCostDashboardProject.pdf
 
 ## Changelog
 
