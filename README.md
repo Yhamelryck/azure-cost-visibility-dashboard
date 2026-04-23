@@ -23,15 +23,16 @@ Small organizations often struggle to understand where Azure costs come from. Th
 2. Group and interpret costs in a business-readable way
 3. Create alerts for selected spending thresholds
 4. Trigger a Logic App to send notifications
-5. Visualize spending in a dashboard
+5. Visualize spending in a dashboard (Learned through this project this could not be possible using a free account)
 
 ## Why this project matters
-This project focuses on a real business problem: unexpected cloud costs. It demonstrates not only Azure knowledge, but also operational thinking, cost awareness, automation, and the ability to communicate technical data in a way that supports decision-making.
+This project focuses on a real business problem: unexpected cloud costs. It demonstrates not only Azure knowledge, but also operational thinking, cost awareness and automation.
 
 ## Status
-Finished - please see docs/AzureCostDashboardProject.pdf
+Finished - please see AzureCostDashboardProject.pdf
 
 ## Changelog
 
 - Version 1 - initial setup
 - Version 1.1 - added possible improvements
+- Version 1.2 - added alert mail
